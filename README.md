@@ -1,0 +1,1 @@
+# vsphere-minimum-privileges
